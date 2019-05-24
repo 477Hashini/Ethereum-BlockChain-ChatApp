@@ -13,5 +13,6 @@
 ## Team composition 
 
 - Rounak Sengupta
-- Siddharth Shukla
 - Gautamdev Chowdary
+- Pallavi Dawn
+- Srijani Pal
